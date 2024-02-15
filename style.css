@@ -28,6 +28,8 @@ body {
 .sec {
     color: #eff1f3;
     font-size: 80px;
+    width: 95px;
+    text-align: center;
 }
 
 .colon {
@@ -54,5 +56,6 @@ body {
     .Min,
     .sec {
         font-size: 70px;
+        height: 95px;
     }
 }
