@@ -21,6 +21,7 @@ body {
     border-bottom: 5px solid #ff002b;
     display: flex;
     justify-content: space-between;
+    min-width: 380px;
 }
 
 .hour,
