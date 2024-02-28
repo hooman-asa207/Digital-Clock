@@ -22,6 +22,10 @@ body {
     display: flex;
     justify-content: space-between;
     min-width: 380px;
+
+    @media screen and (max-width:400px) {
+        min-width: 330px;
+    }
 }
 
 .hour,
